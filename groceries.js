@@ -18,6 +18,7 @@ function addItem() {
    document.getElementById("newItem").value = "";
 }
 
+//newfunctionWOO
 function removeParentListItem()
 {
   var mom = this.parentNode;
